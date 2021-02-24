@@ -193,16 +193,19 @@ hr {
 /* .section */
 .section {
     padding: 80px 0;
-    text-align: center;
 }
 .section--devices {
+    margin-bottom: 40px;
+    padding-bottom: 0;
     background: url(/img/dev/3.png) center no-repeat;
+    -webkit-background-size: cover;
     background-size: cover;
 }
 .section_header {
     width: 100%;
     max-width: 950px;
     margin: 0 auto 50px;
+    text-align: center;
 }
 .section_suptitle {
     font-family: cursive;
@@ -337,7 +340,7 @@ hr {
 }
 .devices_item--1 {
     position: absolute;
-    border-radius: 15%;
+    border-radius: 9%;
     bottom: -80px;
     right: 0;
     z-index: 1;
