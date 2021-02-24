@@ -345,3 +345,15 @@ hr {
     right: 0;
     z-index: 1;
 }
+.wedo {
+    display: flex;
+}
+.wedo_item {
+    width: 50%;
+    color: #000;
+}
+.wedo_img {
+    width: 570px;
+    height: 370px;
+}
+.wedo_item
