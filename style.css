@@ -326,3 +326,19 @@ hr {
     text-transform: uppercase;
     margin-bottom: 10px;
 }
+.devices {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+.devices_item {
+    display: block;
+}
+.devices_item--1 {
+    position: absolute;
+    border-radius: 15%;
+    bottom: -80px;
+    right: 0;
+    z-index: 1;
+}
