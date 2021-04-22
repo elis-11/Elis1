@@ -60,16 +60,18 @@ hr {
 }
 
 .header_logo {
-    font-size: 30px;
+    font-size: 80px;
     font-weight: 700;
-    color: darkkhaki;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(133, 132, 108);
 }
 
 
 /* nav */
 
 .nav {
-    font-size: 14px;
+    font-size:30px;
+    font-family: serif;
     text-transform: uppercase;
 }
 
@@ -319,7 +321,7 @@ hr {
 /* .statistic */
 
 .statistic {
-    background-color: rgb(219, 190, 190);
+    background-color: rgb(216, 214, 214);
 }
 
 .stat {
